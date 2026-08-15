@@ -4,10 +4,10 @@ Building, experimenting, and continuously improving. ⚡**
 
 Email Me 👉 ✉️ **shubhangisingh2506@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**AI-based Programming Assignment Evaluator
+- 🔭 **I’m currently working on:** AI-based Programming Assignment Evaluator
 - 🌱 **I’m currently learning:** AI/ML
 - 👯 **I’m looking to collaborate on:** ASR for Extremely Low-Resource Indic Languages
-- 🤔 **I’m looking for help with:**ASR for Extremely Low-Resource Indic Languages
+- 🤔 **I’m looking for help with:** ASR for Extremely Low-Resource Indic Languages
 - 💬 **Ask me about:** Collaboration, Tech Support
 -  📫 **How to reach me:** shubhangisingh2506@gmail.com
 - 😄 **Pronouns:** Shubhu
